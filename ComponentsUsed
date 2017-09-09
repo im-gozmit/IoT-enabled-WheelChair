@@ -1,0 +1,14 @@
+Components Used:
+ 1. Arduino Uno
+ 2. Accelerometer Gy-61(2)
+ 3. NRF Module (2)
+ 4. Motor Driver IC(L293D) 
+ 5. Jumper Wires
+ 6. Battery
+ 7. WheelChair 
+ 8. Battery
+ 9. High Torque Motors
+ 10. 
+  Arduino :It a Company producing Development Board which contains a MICROCONTROLLER (ATMEL ATMEGA 328 PU).
+  UNO: It a type of a development Board of Arduino .
+  Accelerometer :
