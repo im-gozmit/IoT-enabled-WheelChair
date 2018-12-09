@@ -1,4 +1,4 @@
-# Handicapped Helping Wheeler
+# IoT enabled Wheel Chair controlled using HeadGestures and have features like Pulse Detection etc.
 A Head Gesture Control Wheel Chair for physically disabled.
 This is basically an Arduino Based Project where i am controlling the movement of wheelchair from HEAD Gesture.
 
